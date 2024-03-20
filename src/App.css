@@ -47,3 +47,7 @@ button {
   cursor: pointer;
   margin-top: 1em;
 }
+
+.meme-img {
+  max-width: 100%;
+}
